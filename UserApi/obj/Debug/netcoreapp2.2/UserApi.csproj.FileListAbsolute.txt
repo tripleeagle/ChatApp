@@ -1,0 +1,14 @@
+/Users/valeralyalin/Projects/ChatApp/UserApi/bin/Debug/netcoreapp2.2/UserApi.deps.json
+/Users/valeralyalin/Projects/ChatApp/UserApi/bin/Debug/netcoreapp2.2/UserApi.runtimeconfig.json
+/Users/valeralyalin/Projects/ChatApp/UserApi/bin/Debug/netcoreapp2.2/UserApi.runtimeconfig.dev.json
+/Users/valeralyalin/Projects/ChatApp/UserApi/bin/Debug/netcoreapp2.2/UserApi.dll
+/Users/valeralyalin/Projects/ChatApp/UserApi/bin/Debug/netcoreapp2.2/UserApi.pdb
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.csprojAssemblyReference.cache
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.csproj.CoreCompileInputs.cache
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.RazorAssemblyInfo.cache
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.RazorAssemblyInfo.cs
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.AssemblyInfoInputs.cache
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.AssemblyInfo.cs
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.RazorTargetAssemblyInfo.cache
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.dll
+/Users/valeralyalin/Projects/ChatApp/UserApi/obj/Debug/netcoreapp2.2/UserApi.pdb
