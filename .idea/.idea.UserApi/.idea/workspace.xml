@@ -1,12 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27b73fe1-49f7-477e-8a94-52f00e9b80d5" name="Default Changelist" comment="" />
+    <list default="true" id="27b73fe1-49f7-477e-8a94-52f00e9b80d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UserApi/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/UserApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/UserApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/appsettings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/obj/Debug/netcoreapp2.2/UserApi.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/obj/UserApi.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/obj/UserApi.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserApi/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
@@ -14,15 +27,25 @@
     <option name="height" value="745" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="SolutionExplorer" proportions="" version="1">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ChatApp" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AssemblyExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -55,11 +78,12 @@
       <option name="presentableId" value="Default" />
       <updated>1562520354980</updated>
       <workItem from="1562520360634" duration="14000" />
+      <workItem from="1562610437679" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14000" />
+    <option name="totallyTimeSpent" value="65000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -73,17 +97,9 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="745" extended-state="0" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24959612" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -91,18 +107,26 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.32924962" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>

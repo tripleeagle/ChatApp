@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "946e9320940338e2e8656d91aebf63b45fcf8a5e"
+    "signature": "7c64a8510d569cd0f5f56e59482869f49bb332de"
   },
   "compilationOptions": {
     "defines": [
@@ -22,19 +22,20 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "UserApi/1.0.0": {
+      "ChatApp.UserApi/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.4",
           "Microsoft.NETCore.App": "2.2.0",
+          "Polly": "7.1.0",
           "Swashbuckle.AspNetCore": "4.0.1"
         },
         "runtime": {
-          "UserApi.dll": {}
+          "ChatApp.UserApi.dll": {}
         },
         "compile": {
-          "UserApi.dll": {}
+          "ChatApp.UserApi.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.2.4": {
@@ -99,6 +100,17 @@
         },
         "compile": {
           "lib/netstandard2.0/Microsoft.EntityFrameworkCore.SqlServer.dll": {}
+        }
+      },
+      "Polly/7.1.0": {
+        "runtime": {
+          "lib/netstandard2.0/Polly.dll": {
+            "assemblyVersion": "7.0.0.0",
+            "fileVersion": "7.1.0.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Polly.dll": {}
         }
       },
       "Remotion.Linq/2.2.0": {
@@ -3324,7 +3336,7 @@
     }
   },
   "libraries": {
-    "UserApi/1.0.0": {
+    "ChatApp.UserApi/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -3363,6 +3375,13 @@
       "sha512": "sha512-e0rW3jJXunnwUCout+lQicDoyviO53qsuawZa/HZsfRoEF/bWGlGTJxUN0MPZVQkEd5Gx8ypdDSRbGHtrQp/SA==",
       "path": "microsoft.entityframeworkcore.sqlserver/2.2.4",
       "hashPath": "microsoft.entityframeworkcore.sqlserver.2.2.4.nupkg.sha512"
+    },
+    "Polly/7.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mpQsvlEn4ipgICh5CGyVLPV93RFVzOrBG7wPZfzY8gExh7XgWQn0GCDY9nudbUEJ12UiGPP9i4+CohghBvzhmg==",
+      "path": "polly/7.1.0",
+      "hashPath": "polly.7.1.0.nupkg.sha512"
     },
     "Remotion.Linq/2.2.0": {
       "type": "package",

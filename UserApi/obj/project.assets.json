@@ -12213,7 +12213,7 @@
     "version": "1.0.0",
     "restore": {
       "projectUniqueName": "/Users/valeralyalin/Projects/ChatApp/UserApi/UserApi.csproj",
-      "projectName": "UserApi",
+      "projectName": "ChatApp.UserApi",
       "projectPath": "/Users/valeralyalin/Projects/ChatApp/UserApi/UserApi.csproj",
       "packagesPath": "/Users/valeralyalin/.nuget/packages/",
       "outputPath": "/Users/valeralyalin/Projects/ChatApp/UserApi/obj/",

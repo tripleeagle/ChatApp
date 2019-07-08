@@ -20,7 +20,7 @@ services:
     depends_on:
       - sqlserver
     ports:
-      - "5200"
+      - "5200:5200"
     environment:
       - ASPNETCORE_ENVIRONMENT=Production
 
